@@ -16,3 +16,6 @@
 4. Edit your `config.json` like [config.example.json](config.example.json) to fill bot token, api id and api hash
 5. Run `python dump_users.py` to dump users in a group via invite link
 6. Run `python bot.py`
+
+### 🚀 Deploy to Heroku
+[![Deploy+to+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PratheekXD/TagAllBot)
